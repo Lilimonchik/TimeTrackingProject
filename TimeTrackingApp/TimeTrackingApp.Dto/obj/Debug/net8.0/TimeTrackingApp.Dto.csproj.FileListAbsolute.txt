@@ -1,0 +1,11 @@
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\bin\Debug\net8.0\TimeTrackingApp.Dto.deps.json
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\bin\Debug\net8.0\TimeTrackingApp.Dto.dll
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\bin\Debug\net8.0\TimeTrackingApp.Dto.pdb
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\obj\Debug\net8.0\TimeTrackingApp.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\obj\Debug\net8.0\TimeTrackingApp.Dto.AssemblyInfoInputs.cache
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\obj\Debug\net8.0\TimeTrackingApp.Dto.AssemblyInfo.cs
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\obj\Debug\net8.0\TimeTrackingApp.Dto.csproj.CoreCompileInputs.cache
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\obj\Debug\net8.0\TimeTrackingApp.Dto.dll
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\obj\Debug\net8.0\refint\TimeTrackingApp.Dto.dll
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\obj\Debug\net8.0\TimeTrackingApp.Dto.pdb
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Dto\obj\Debug\net8.0\ref\TimeTrackingApp.Dto.dll

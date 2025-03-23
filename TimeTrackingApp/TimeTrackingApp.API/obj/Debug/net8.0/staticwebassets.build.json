@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bLtx89MKXR72M/571czSkJXC70kCfAcgE9tX0Fyc1jc=",
+  "Source": "TimeTrackingApp.API",
+  "BasePath": "_content/TimeTrackingApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

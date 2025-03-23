@@ -1,0 +1,1126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\TestProject\\TimeTrackingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\activities\\iactivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\activities\\iactivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\activities\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\activities\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958}|..\\NotificationApp\\NotificationApp.Worker\\NotificationApp.Worker.csproj|d:\\.net\\testproject\\notificationapp\\notificationapp.worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\controllers\\activitytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\controllers\\activitytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958}|..\\NotificationApp\\NotificationApp.Worker\\NotificationApp.Worker.csproj|d:\\.net\\testproject\\notificationapp\\notificationapp.worker\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.infrastructure\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|solutionrelative:timetrackingapp.infrastructure\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC701C9-A2DC-4550-BBCF-52ACF3742A50}|docker-compose.dcproj|d:\\.net\\testproject\\timetrackingapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEC701C9-A2DC-4550-BBCF-52ACF3742A50}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\model\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\model\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Tests\\obj\\Debug\\net8.0\\TimeTrackingApp.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TimeTrackingApp.Tests\\obj\\Debug\\net8.0\\TimeTrackingApp.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost/TrackingDb/sa/SqlTable/dbo.ActivityTypes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost/TrackingDb/sa/SqlTable/dbo.Activities.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\repositories\\iactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\repositories\\iactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958}|..\\NotificationApp\\NotificationApp.Worker\\NotificationApp.Worker.csproj|d:\\.net\\testproject\\notificationapp\\notificationapp.worker\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958}|..\\NotificationApp\\NotificationApp.Worker\\NotificationApp.Worker.csproj|d:\\.net\\testproject\\notificationapp\\notificationapp.worker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958}|..\\NotificationApp\\NotificationApp.Worker\\NotificationApp.Worker.csproj|d:\\.net\\testproject\\notificationapp\\notificationapp.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\messaging\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\messaging\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC701C9-A2DC-4550-BBCF-52ACF3742A50}|docker-compose.dcproj|d:\\.net\\testproject\\timetrackingapp\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEC701C9-A2DC-4550-BBCF-52ACF3742A50}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\validations\\projectdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\validations\\projectdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.infrastructure\\migrations\\20250323131636_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|solutionrelative:timetrackingapp.infrastructure\\migrations\\20250323131636_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}|TimeTrackingApp.Dto\\TimeTrackingApp.Dto.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.dto\\activitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}|TimeTrackingApp.Dto\\TimeTrackingApp.Dto.csproj|solutionrelative:timetrackingapp.dto\\activitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\validations\\roledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\validations\\roledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\validations\\employeedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\validations\\employeedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\validations\\activitytypedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\validations\\activitytypedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\validations\\activitydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\validations\\activitydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\mappings\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\mappings\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}|TimeTrackingApp.Dto\\TimeTrackingApp.Dto.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}|TimeTrackingApp.Dto\\TimeTrackingApp.Dto.csproj|solutionrelative:timetrackingapp.dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\mappings\\activityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\mappings\\activityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\mappings\\activitytypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\mappings\\activitytypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}|TimeTrackingApp.Dto\\TimeTrackingApp.Dto.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.dto\\activitytypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}|TimeTrackingApp.Dto\\TimeTrackingApp.Dto.csproj|solutionrelative:timetrackingapp.dto\\activitytypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}|TimeTrackingApp.Dto\\TimeTrackingApp.Dto.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.dto\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}|TimeTrackingApp.Dto\\TimeTrackingApp.Dto.csproj|solutionrelative:timetrackingapp.dto\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}|TimeTrackingApp.Dto\\TimeTrackingApp.Dto.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}|TimeTrackingApp.Dto\\TimeTrackingApp.Dto.csproj|solutionrelative:timetrackingapp.dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\roles\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\roles\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\model\\activitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\model\\activitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Migrations\\20250323130832_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TimeTrackingApp.Infrastructure\\Migrations\\20250323130832_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\mappings\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\mappings\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.api\\mappings\\roleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}|TimeTrackingApp.API\\TimeTrackingApp.API.csproj|solutionrelative:timetrackingapp.api\\mappings\\roleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\roles\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\roles\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\activitytypes\\activitytypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\activitytypes\\activitytypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\activitytypes\\iactivitytypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\activitytypes\\iactivitytypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\employees\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\employees\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\projects\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\projects\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\employees\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\employees\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.infrastructure\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|solutionrelative:timetrackingapp.infrastructure\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|solutionrelative:timetrackingapp.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|solutionrelative:timetrackingapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\services\\projects\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\services\\projects\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|solutionrelative:timetrackingapp.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.infrastructure\\repositories\\activitytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|solutionrelative:timetrackingapp.infrastructure\\repositories\\activitytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\repositories\\iactivitytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\repositories\\iactivitytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.infrastructure\\repositories\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|solutionrelative:timetrackingapp.infrastructure\\repositories\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|solutionrelative:timetrackingapp.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F92EA8-CFF9-458C-97CE-DDED48837231}|TimeTrackingApp.Domain\\TimeTrackingApp.Domain.csproj|solutionrelative:timetrackingapp.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|d:\\.net\\testproject\\timetrackingapp\\timetrackingapp.infrastructure\\timetrackingapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FABC990F-B204-4257-8F79-47918FA9CA1D}|TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj|solutionrelative:timetrackingapp.infrastructure\\timetrackingapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 342,
+          "SelectedChildIndex": 42,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimeTrackingApp.Tests.GlobalUsings.g.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Tests\\obj\\Debug\\net8.0\\TimeTrackingApp.Tests.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Tests\\obj\\Debug\\net8.0\\TimeTrackingApp.Tests.GlobalUsings.g.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Tests\\obj\\Debug\\net8.0\\TimeTrackingApp.Tests.GlobalUsings.g.cs",
+              "RelativeToolTip": "TimeTrackingApp.Tests\\obj\\Debug\\net8.0\\TimeTrackingApp.Tests.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:49:04.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Activities [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost/TrackingDb/sa/SqlTable/dbo.Activities.sql",
+              "ToolTip": "dbo.Activities [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-23T16:56:39.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.ActivityTypes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost/TrackingDb/sa/SqlTable/dbo.ActivityTypes.sql",
+              "ToolTip": "dbo.ActivityTypes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-23T16:19:27.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-23T15:40:52.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T15:40:49.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Messaging\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\Messaging\\RabbitMQService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Messaging\\RabbitMQService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\Messaging\\RabbitMQService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:31:46.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\NotificationApp\\NotificationApp.Worker\\Services\\INotificationService.cs",
+              "RelativeDocumentMoniker": "..\\NotificationApp\\NotificationApp.Worker\\Services\\INotificationService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\NotificationApp\\NotificationApp.Worker\\Services\\INotificationService.cs",
+              "RelativeToolTip": "..\\NotificationApp\\NotificationApp.Worker\\Services\\INotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:21:36.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\NotificationApp\\NotificationApp.Worker\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "..\\NotificationApp\\NotificationApp.Worker\\Services\\NotificationService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\NotificationApp\\NotificationApp.Worker\\Services\\NotificationService.cs",
+              "RelativeToolTip": "..\\NotificationApp\\NotificationApp.Worker\\Services\\NotificationService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:20:25.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\NotificationApp\\NotificationApp.Worker\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\NotificationApp\\NotificationApp.Worker\\appsettings.json",
+              "ToolTip": "D:\\.NET\\TestProject\\NotificationApp\\NotificationApp.Worker\\appsettings.json",
+              "RelativeToolTip": "..\\NotificationApp\\NotificationApp.Worker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T15:16:46.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\NotificationApp\\NotificationApp.Worker\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NotificationApp\\NotificationApp.Worker\\Program.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\NotificationApp\\NotificationApp.Worker\\Program.cs",
+              "RelativeToolTip": "..\\NotificationApp\\NotificationApp.Worker\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:07:58.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\NotificationApp\\NotificationApp.Worker\\Worker.cs",
+              "RelativeDocumentMoniker": "..\\NotificationApp\\NotificationApp.Worker\\Worker.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\NotificationApp\\NotificationApp.Worker\\Worker.cs",
+              "RelativeToolTip": "..\\NotificationApp\\NotificationApp.Worker\\Worker.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:07:17.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\Data\\DbSeeder.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\Data\\DbSeeder.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:25:51.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProjectDtoValidator.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Validations\\ProjectDtoValidator.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Validations\\ProjectDtoValidator.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Validations\\ProjectDtoValidator.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Validations\\ProjectDtoValidator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:44:11.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ActivityTypeDtoValidator.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Validations\\ActivityTypeDtoValidator.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Validations\\ActivityTypeDtoValidator.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Validations\\ActivityTypeDtoValidator.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Validations\\ActivityTypeDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:43:02.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeDtoValidator.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Validations\\EmployeeDtoValidator.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Validations\\EmployeeDtoValidator.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Validations\\EmployeeDtoValidator.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Validations\\EmployeeDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:42:16.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ActivityDtoValidator.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Validations\\ActivityDtoValidator.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Validations\\ActivityDtoValidator.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Validations\\ActivityDtoValidator.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Validations\\ActivityDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:41:28.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleDtoValidator.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Validations\\RoleDtoValidator.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Validations\\RoleDtoValidator.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Validations\\RoleDtoValidator.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Validations\\RoleDtoValidator.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:40:27.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250323131636_Initial.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Migrations\\20250323131636_Initial.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\Migrations\\20250323131636_Initial.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Migrations\\20250323131636_Initial.cs",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\Migrations\\20250323131636_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:16:36.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250323130832_Initial.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Migrations\\20250323130832_Initial.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\Migrations\\20250323130832_Initial.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Migrations\\20250323130832_Initial.cs",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\Migrations\\20250323130832_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:08:32.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:01:44.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActivityTypeController.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Controllers\\ActivityTypeController.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Controllers\\ActivityTypeController.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Controllers\\ActivityTypeController.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Controllers\\ActivityTypeController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAwwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:01:08.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActivityController.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Controllers\\ActivityController.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Controllers\\ActivityController.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Controllers\\ActivityController.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Controllers\\ActivityController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAMwFYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:59:44.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:58:57.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Controllers\\ProjectController.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAmwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:56:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ActivityTypeProfile.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Mappings\\ActivityTypeProfile.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Mappings\\ActivityTypeProfile.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Mappings\\ActivityTypeProfile.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Mappings\\ActivityTypeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:48:21.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ActivityProfile.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Mappings\\ActivityProfile.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Mappings\\ActivityProfile.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Mappings\\ActivityProfile.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Mappings\\ActivityProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:47:46.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Mappings\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Mappings\\EmployeeProfile.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Mappings\\EmployeeProfile.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Mappings\\EmployeeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:47:21.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RoleProfile.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Mappings\\RoleProfile.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Mappings\\RoleProfile.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Mappings\\RoleProfile.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Mappings\\RoleProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:46:58.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Roles\\RoleService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\Roles\\RoleService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Roles\\RoleService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\Roles\\RoleService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:42:55.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Activities\\ActivityService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\Activities\\ActivityService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Activities\\ActivityService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\Activities\\ActivityService.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAwwMAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:21:26.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ActivityTypeService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\ActivityTypes\\ActivityTypeService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\ActivityTypes\\ActivityTypeService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\ActivityTypes\\ActivityTypeService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\ActivityTypes\\ActivityTypeService.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAgwJwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:55:16.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Employees\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\Employees\\EmployeeService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Employees\\EmployeeService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\Employees\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:49:16.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIgUAAAAAAAAAAAtwIwUAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-23T11:18:36.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProjectProfile.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Mappings\\ProjectProfile.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Mappings\\ProjectProfile.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Mappings\\ProjectProfile.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Mappings\\ProjectProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:09:07.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Projects\\ProjectService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\Projects\\ProjectService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Projects\\ProjectService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\Projects\\ProjectService.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:56:10.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Roles\\IRoleService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\Roles\\IRoleService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Roles\\IRoleService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\Roles\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:54:58.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IActivityTypeService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\ActivityTypes\\IActivityTypeService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\ActivityTypes\\IActivityTypeService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\ActivityTypes\\IActivityTypeService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\ActivityTypes\\IActivityTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:52:08.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ActivityTypeDto.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Dto\\ActivityTypeDto.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Dto\\ActivityTypeDto.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Dto\\ActivityTypeDto.cs",
+              "RelativeToolTip": "TimeTrackingApp.Dto\\ActivityTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:47:29.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Dto\\RoleDto.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Dto\\RoleDto.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Dto\\RoleDto.cs",
+              "RelativeToolTip": "TimeTrackingApp.Dto\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:46:50.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ActivityDto.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Dto\\ActivityDto.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Dto\\ActivityDto.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Dto\\ActivityDto.cs",
+              "RelativeToolTip": "TimeTrackingApp.Dto\\ActivityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:45:39.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IActivityService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Activities\\IActivityService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\Activities\\IActivityService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Activities\\IActivityService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\Activities\\IActivityService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwAsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:45:12.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Model\\Employee.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Model\\Employee.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:44:04.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Dto\\EmployeeDto.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "TimeTrackingApp.Dto\\EmployeeDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:43:50.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Employees\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\Employees\\IEmployeeService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Employees\\IEmployeeService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\Employees\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:43:15.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProjectDto.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Dto\\ProjectDto.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Dto\\ProjectDto.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Dto\\ProjectDto.cs",
+              "RelativeToolTip": "TimeTrackingApp.Dto\\ProjectDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:41:45.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Projects\\IProjectService.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Services\\Projects\\IProjectService.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Services\\Projects\\IProjectService.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Services\\Projects\\IProjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:40:49.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ActivityTypeRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\ActivityTypeRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\Repositories\\ActivityTypeRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\ActivityTypeRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\Repositories\\ActivityTypeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4vwkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:29:12.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:28:32.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IRoleRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Repositories\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:27:49.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IActivityTypeRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IActivityTypeRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Repositories\\IActivityTypeRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IActivityTypeRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Repositories\\IActivityTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:26:19.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ActivityRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\ActivityRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\Repositories\\ActivityRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\ActivityRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\Repositories\\ActivityRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:20:40.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vxYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:17:52.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:13:57.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IActivityRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IActivityRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Repositories\\IActivityRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IActivityRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Repositories\\IActivityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:11:58.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:11:37.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Repositories\\IProjectRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IProjectRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Repositories\\IProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:11:29.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:32:04.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:26:45.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TimeTrackingApp.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\TimeTrackingApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T09:07:09.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Program.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Program.cs",
+              "RelativeToolTip": "TimeTrackingApp.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:57:25.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\appsettings.json",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\appsettings.json",
+              "RelativeToolTip": "TimeTrackingApp.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T08:55:38.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\appsettings.Development.json",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\appsettings.Development.json",
+              "RelativeToolTip": "TimeTrackingApp.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T08:55:36.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAawFgBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-23T08:50:04.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Dockerfile",
+              "RelativeDocumentMoniker": "TimeTrackingApp.API\\Dockerfile",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.API\\Dockerfile",
+              "RelativeToolTip": "TimeTrackingApp.API\\Dockerfile",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T08:48:44.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Model\\Activity.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Model\\Activity.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Model\\Activity.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Model\\Activity.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:40:08.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Model\\Project.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Model\\Project.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Model\\Project.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Model\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:37:32.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Model\\Role.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Model\\Role.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Model\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:37:14.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ActivityType.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Model\\ActivityType.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Domain\\Model\\ActivityType.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Domain\\Model\\ActivityType.cs",
+              "RelativeToolTip": "TimeTrackingApp.Domain\\Model\\ActivityType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:36:59.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TimeTrackingApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.NET\\TestProject\\TimeTrackingApp\\TimeTrackingApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TimeTrackingApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:35:37.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

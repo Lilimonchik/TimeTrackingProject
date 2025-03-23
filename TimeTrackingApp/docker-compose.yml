@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  trackingdb:
+    image: mcr.microsoft.com/mssql/server
+
+  messagebroker:
+    image: rabbitmq:management
+
+  timetrackingapp.api:
+    image: ${DOCKER_REGISTRY-}timetrackingappapi
+    build:
+      context: .
+      dockerfile: TimeTrackingApp.API/Dockerfile

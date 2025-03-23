@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TimeTrackingApp", "TimeTrackingApp", "{EE4A8E42-BD0C-4AFA-9CEA-33635197EDD8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeTrackingApp.API", "TimeTrackingApp.API\TimeTrackingApp.API.csproj", "{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeTrackingApp.Infrastructure", "TimeTrackingApp.Infrastructure\TimeTrackingApp.Infrastructure.csproj", "{FABC990F-B204-4257-8F79-47918FA9CA1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeTrackingApp.Domain", "TimeTrackingApp.Domain\TimeTrackingApp.Domain.csproj", "{A5F92EA8-CFF9-458C-97CE-DDED48837231}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeTrackingApp.Dto", "TimeTrackingApp.Dto\TimeTrackingApp.Dto.csproj", "{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BEC701C9-A2DC-4550-BBCF-52ACF3742A50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NotificationApp", "NotificationApp", "{1D7387A4-F2F1-440E-B801-A9DB175353EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationApp.Worker", "..\NotificationApp\NotificationApp.Worker\NotificationApp.Worker.csproj", "{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80C6186-D5AA-4ACD-8BE8-6417162A33DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABC990F-B204-4257-8F79-47918FA9CA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABC990F-B204-4257-8F79-47918FA9CA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABC990F-B204-4257-8F79-47918FA9CA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABC990F-B204-4257-8F79-47918FA9CA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F92EA8-CFF9-458C-97CE-DDED48837231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F92EA8-CFF9-458C-97CE-DDED48837231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F92EA8-CFF9-458C-97CE-DDED48837231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F92EA8-CFF9-458C-97CE-DDED48837231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC701C9-A2DC-4550-BBCF-52ACF3742A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC701C9-A2DC-4550-BBCF-52ACF3742A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC701C9-A2DC-4550-BBCF-52ACF3742A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC701C9-A2DC-4550-BBCF-52ACF3742A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B80C6186-D5AA-4ACD-8BE8-6417162A33DE} = {EE4A8E42-BD0C-4AFA-9CEA-33635197EDD8}
+		{FABC990F-B204-4257-8F79-47918FA9CA1D} = {EE4A8E42-BD0C-4AFA-9CEA-33635197EDD8}
+		{A5F92EA8-CFF9-458C-97CE-DDED48837231} = {EE4A8E42-BD0C-4AFA-9CEA-33635197EDD8}
+		{9AD0D582-45E1-433D-9E61-3DAFFCF63A0F} = {EE4A8E42-BD0C-4AFA-9CEA-33635197EDD8}
+		{A2E3EB5D-2D9E-4DFF-B556-9D8CAB5D9958} = {1D7387A4-F2F1-440E-B801-A9DB175353EC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53DC14F6-9500-4A45-93FF-528B1F61D921}
+	EndGlobalSection
+EndGlobal

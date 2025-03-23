@@ -1,0 +1,15 @@
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\bin\Debug\net8.0\TimeTrackingApp.Domain.deps.json
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\bin\Debug\net8.0\TimeTrackingApp.Domain.dll
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\bin\Debug\net8.0\TimeTrackingApp.Domain.pdb
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\bin\Debug\net8.0\TimeTrackingApp.Dto.dll
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\bin\Debug\net8.0\TimeTrackingApp.Dto.pdb
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\obj\Debug\net8.0\TimeTrackingApp.Domain.csproj.AssemblyReference.cache
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\obj\Debug\net8.0\TimeTrackingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\obj\Debug\net8.0\TimeTrackingApp.Domain.AssemblyInfoInputs.cache
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\obj\Debug\net8.0\TimeTrackingApp.Domain.AssemblyInfo.cs
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\obj\Debug\net8.0\TimeTrackingApp.Domain.csproj.CoreCompileInputs.cache
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\obj\Debug\net8.0\TimeTrac.126088B5.Up2Date
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\obj\Debug\net8.0\TimeTrackingApp.Domain.dll
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\obj\Debug\net8.0\refint\TimeTrackingApp.Domain.dll
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\obj\Debug\net8.0\TimeTrackingApp.Domain.pdb
+D:\.NET\TestProject\TimeTrackingApp\TimeTrackingApp.Domain\obj\Debug\net8.0\ref\TimeTrackingApp.Domain.dll
